@@ -1,3 +1,0 @@
-LED + 220 Ohm
-Taster + 1k Ohm
-Poti 10k Ohm

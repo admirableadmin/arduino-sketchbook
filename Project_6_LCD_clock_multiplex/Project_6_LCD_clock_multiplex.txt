@@ -1,9 +1,0 @@
-I2C
-PCF8574
-http://mathertel.de/Arduino/LiquidCrystal_PCF8574.aspx
-
-GND GND
-VCC 5V
-SDA SDA (A4)
-SCL SCL (A5)
-

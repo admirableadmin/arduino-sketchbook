@@ -1,4 +1,0 @@
-LED - 4x 220 ohm
-Taster - 2x 1k ohm
-
-

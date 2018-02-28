@@ -1,2 +1,0 @@
-RGB LED + 3* 220 Ohm
-Poti 3* 5k Ohm
